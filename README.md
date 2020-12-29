@@ -1,5 +1,20 @@
 # Linkedin Learning : Web Dev Front In Lessons
 
+### 2020 12 28 : 0900 | U 00 Section 07
+Working on the fictional bank website.  Following the instructor’s lessons.  He speaks really fast and I have to pause it to make sure I’m getting what he says.  The site looks amazing and there are things I want to remember.  Things like how to use flexbox, CSS and so many other things.  It really is top notch information.  I will need to go over this stuff over and over while working on my own projects.  This is going to take a lot of time.  
+
+#### 2230 | U 00 Section 07
+Completed most most of Section 07.  I’m at the 59 video. I’m putting this up for tonight.  ~cheer
+
+-----------------------------------------------------------------------------
+
+## U 00 Section 07 EdgeLedger
+
+### 2020 12 27 : 2330 U 00 Section 07
+Setting up the Udemy section project files.  Reviewing everything and preparing to spend the week in completing the lessons.  
+
+-----------------------------------------------------------------------------
+
 ## Admin 
 
 ### 2020 12 25 : 1251 || Admin Org
