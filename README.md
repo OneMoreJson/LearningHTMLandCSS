@@ -1,5 +1,10 @@
 # Linkedin Learning : Web Dev Front In Lessons
 
+### 2020 12 29 : 0900 || Section 07 Admin
+Had to switch the alias folder with the real folder to the GH folder.  Is that a little confusing?  Well, nothing gets loaded to the GH when you have an alias folder created and placed in GH.  That seems kind of obvious now.  However, that means nothing gets backed up either.  So, for the period of this study course, I and keeping the main folder with all the docs inside the GH Repo folder while it’s connected to the correct folder in my files through an alias.  
+
+-----------------------------------------------------------------------------
+
 ### 2020 12 28 : 0900 | U 00 Section 07
 Working on the fictional bank website.  Following the instructor’s lessons.  He speaks really fast and I have to pause it to make sure I’m getting what he says.  The site looks amazing and there are things I want to remember.  Things like how to use flexbox, CSS and so many other things.  It really is top notch information.  I will need to go over this stuff over and over while working on my own projects.  This is going to take a lot of time.  
 
