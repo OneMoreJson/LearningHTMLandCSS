@@ -3,7 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" type="image/x-icon" href="_IMG/favicon.ico">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" />
+
+  <link rel="stylesheet" href="_CSS/lightbox.min.css">
   <link rel="stylesheet" href="_CSS/utilities.css">
   <link rel="stylesheet" href="_CSS/style.css">
   <title>Welcome to Edgeledger</title>
@@ -90,20 +93,36 @@
       </header>
       <div class="row">
         <div class="column">
-          <img src="_IMG/_CASES/cases1.jpg" alt="">
-          <img src="_IMG/_CASES/cases2.jpg" alt="">
+          <a href="_IMG/_CASES/cases1.jpg" data-lightbox="cases" data-title="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam, deserunt.">
+            <img src="_IMG/_CASES/cases1.jpg" alt="">
+          </a>
+          <a href="_IMG/_CASES/cases2.jpg" data-lightbox="cases" data-title="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam, deserunt.">
+            <img src="_IMG/_CASES/cases2.jpg" alt="">
+          </a>
         </div>
         <div class="column">
-          <img src="_IMG/_CASES/cases3.jpg" alt="">
-          <img src="_IMG/_CASES/cases4.jpg" alt="">
+          <a href="_IMG/_CASES/cases3.jpg" data-lightbox="cases" data-title="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam, deserunt.">
+            <img src="_IMG/_CASES/cases3.jpg" alt="">
+          </a>          
+          <a href="_IMG/_CASES/cases4.jpg" data-lightbox="cases" data-title="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam, deserunt.">
+            <img src="_IMG/_CASES/cases4.jpg" alt="">
+          </a>
         </div>
         <div class="column">
-          <img src="_IMG/_CASES/cases5.jpg" alt="">
-          <img src="_IMG/_CASES/cases6.jpg" alt="">
+          <a href="_IMG/_CASES/cases5.jpg" data-lightbox="cases" data-title="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam, deserunt.">
+            <img src="_IMG/_CASES/cases5.jpg" alt="">
+          </a>          
+          <a href="_IMG/_CASES/cases6.jpg" data-lightbox="cases" data-title="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam, deserunt.">
+            <img src="_IMG/_CASES/cases6.jpg" alt="">
+          </a>
         </div>
         <div class="column">
-          <img src="_IMG/_CASES/cases7.jpg" alt="">
-          <img src="_IMG/_CASES/cases8.jpg" alt="">
+          <a href="_IMG/_CASES/cases7.jpg" data-lightbox="cases" data-title="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam, deserunt.">
+            <img src="_IMG/_CASES/cases7.jpg" alt="">
+          </a>          
+          <a href="_IMG/_CASES/cases8.jpg" data-lightbox="cases" data-title="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam, deserunt.">
+            <img src="_IMG/_CASES/cases8.jpg" alt="">
+          </a>
         </div>
       </div>
     </section>
@@ -225,26 +244,27 @@
         scrolled = false;
       }
     }
+  </script>
+    // LightBox
 
-    // Smoth Scrolling
-    $('#navBar a, btn').on('click', function(e) {
-      if(this.hash !=- '') {
-        e.parentDefault();
+  <script src="_JS/lightbox.min.js"></script>
 
-        const hash = this.hash;
+    // Smooth Scrolling
+  <script>
+    $('#navBar a, .btn').on('click', function (e) {
+        if (this.hash !== '') {
+          e.preventDefault();
 
-        $('html', 'body').animate(
-          {
-            scrolltop: $(has).offset().top - 100,
-          }
-        ), 
-        800
-      }
-    })
+          const hash = this.hash;
 
-
-
-
+          $('html, body').animate(
+            {
+              scrollTop: $(hash).offset().top - 100,
+            },
+            800
+          );
+        }
+      });
 
   </script>
 
