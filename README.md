@@ -37,7 +37,7 @@ I archiving some of the repo and reorganizing my folders.  I found that while I 
 #### Moved “LI Learning : Web Dev Front End Lessons” under the title of “Study HTML/CSS.”  This way I can add other things I’m learning from different sources without opening a new repo.
 
 -----------------------------------------------------------------------------
-### 2020 12 131830 : 0930 || LI 10
+### 2020 12 13 : 0930 || LI 10
 I’m going to need to find a better class on JS.  This guy is kind of hard to follow.   
 
 -----------------------------------------------------------------------------
