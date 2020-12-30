@@ -3,19 +3,28 @@
 ### 2020 12 29 : 0900 || Section 07 Admin
 Had to switch the alias folder with the real folder to the GH folder.  Is that a little confusing?  Well, nothing gets loaded to the GH when you have an alias folder created and placed in GH.  That seems kind of obvious now.  However, that means nothing gets backed up either.  So, for the period of this study course, I and keeping the main folder with all the docs inside the GH Repo folder while it’s connected to the correct folder in my files through an alias.  
 
+#### 1000 || Section 07
+Completed the section.  Learned about some JS, GH light-box app and favicon.  Completed all and will move into the Section 08: Website Deployment and shared host
+
+#### 1100 || Section 08
+Completed watching how to deploy website.  I’m not sure I feel comfortable using an FTP like FileZilla when I know it is hackable.  I don’t know how it is hackable, but it isn’t secure.  So… I’ll continue watching the lesson videos as he will talk about another way to deploy.  
+
+#### 1900 || Section 09 - 10
+The goal is to watch the lessons first.  Then I’ll rewatching them while I’m working the project files.  Afterwards, I want to build something simple using what we learned.  There is a lot here, so I could see completing a lot of different websites.  
+
 -----------------------------------------------------------------------------
 
 ### 2020 12 28 : 0900 | U 00 Section 07
 Working on the fictional bank website.  Following the instructor’s lessons.  He speaks really fast and I have to pause it to make sure I’m getting what he says.  The site looks amazing and there are things I want to remember.  Things like how to use flexbox, CSS and so many other things.  It really is top notch information.  I will need to go over this stuff over and over while working on my own projects.  This is going to take a lot of time.  
 
-#### 2230 | U 00 Section 07
+#### 2230 || U 00 Section 07
 Completed most most of Section 07.  I’m at the 59 video. I’m putting this up for tonight.  ~cheer
 
 -----------------------------------------------------------------------------
 
 ## U 00 Section 07 EdgeLedger
 
-### 2020 12 27 : 2330 U 00 Section 07
+### 2020 12 27 : 2330 || U 00 Section 07
 Setting up the Udemy section project files.  Reviewing everything and preparing to spend the week in completing the lessons.  
 
 -----------------------------------------------------------------------------
