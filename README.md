@@ -10,6 +10,9 @@ Completed the Hamburger menu mini project.  This one will be work keeping for mu
 Completed the Knowledge timeline.  I don’t think my computer can handle the information as everthing was kind of sticking.  That was really odd.  The movement of the boxes and transformation was jerky.  It also might be the chrome not really working well.  I’m going to try again using Safari and see if that works better.  I’m also moving on to Section 11, a study on grid.  This will be interesting.
 >Side Note: Safari works a lot better.  No jerky transitions!  
 
+#### 2200 || Section 12
+Complete the section project for creating a News Website using grid. This was incredible and looks very professional.  It gets you the icing on the cake… but I think there are soooo much more to be considered.  You can create a tensile town website, but how is it maintained?  I think most web devs need to consider that.  I also think this is just the process.  You have to learn to create the stunning web sites, but then show that you can maintain, fix, and update them as needed.  This will take time. 
+
 -----------------------------------------------------------------------------
 
 ### 2020 12 29 : 0900 || Section 07 Admin
