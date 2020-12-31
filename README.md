@@ -1,5 +1,10 @@
 # Linkedin Learning : Web Dev Front In Lessons
 
+### 2020 12 30 : 0500 || Section 10
+Completed the presentation website.  I tried everything myself and got a lot of it.  The animation isn’t my strongest part but I was able to C/P most of that.  I learned that if I want my buttons to be side-by-side, put them in a <div>.  That particular lesson cost me a ton of time.
+
+-----------------------------------------------------------------------------
+
 ### 2020 12 29 : 0900 || Section 07 Admin
 Had to switch the alias folder with the real folder to the GH folder.  Is that a little confusing?  Well, nothing gets loaded to the GH when you have an alias folder created and placed in GH.  That seems kind of obvious now.  However, that means nothing gets backed up either.  So, for the period of this study course, I and keeping the main folder with all the docs inside the GH Repo folder while it’s connected to the correct folder in my files through an alias.  
 
