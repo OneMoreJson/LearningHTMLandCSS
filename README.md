@@ -2,6 +2,9 @@
 
 ### 2020 12 30 : 0500 || Section 10
 Completed the presentation website.  I tried everything myself and got a lot of it.  The animation isn’t my strongest part but I was able to C/P most of that.  I learned that if I want my buttons to be side-by-side, put them in a <div>.  That particular lesson cost me a ton of time.
+  
+  #### 1100 || Section 10
+Completed the Hamburger menu mini project.  This one will be work keeping for multiple of reasons.  Know this, <div> tags are incredible useful in getting CSS to do things that you normally cannot do.  Also, using a hidden checkbox input tag can allow you to cause “events” for transition and transforming things inside the CSS document.
 
 -----------------------------------------------------------------------------
 
