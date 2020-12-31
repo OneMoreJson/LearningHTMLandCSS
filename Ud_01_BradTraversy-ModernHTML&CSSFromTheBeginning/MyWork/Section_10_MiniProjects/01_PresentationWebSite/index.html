@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Presentation Website | A Slide Show</title>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+  <link rel="stylesheet" href="_CSS/style.css">
+</head>
+
+<!-- Page 01 -->
+<body>
+  <article id="pageOne" class="page">
+  <h1>Welcome</h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae, delectus saepe? Quas, quia. Cupiditate sequi vel consequatur, sunt quam minus ut, modi soluta, esse autem eligendi architecto qui quaerat reiciendis.</p>
+    <div>
+      <a href="#pageTwo" class="btn btnDark">
+          Next Page <i class="fas fa-arrow-circle-down"></i>
+      </a>
+    </div>
+  </article>
+
+  <article id="pageTwo" class="page">
+    <h1>Page Two</h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae, delectus saepe? Quas, quia. Cupiditate sequi vel consequatur, sunt quam minus ut, modi soluta, esse autem eligendi architecto qui quaerat reiciendis.</p>
+    <div>
+      <a href="#pageOne" class="btn btnDark">
+        Prev Page <i class="fas fa-arrow-circle-up"></i>
+      </a>
+      <a href="#pageThree" class="btn btnLight">
+        Next Page <i class="fas fa-arrow-circle-down"></i>
+      </a>
+    </div>
+  </article>
+
+  <article id="pageThree" class="page">
+    <h1>Page Three</h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae, delectus saepe? Quas, quia. Cupiditate sequi vel consequatur, sunt quam minus ut, modi soluta, esse autem eligendi architecto qui quaerat reiciendis.</p>
+    <div>
+      <a href="#pageTwo" class="btn btnDark">
+        Prev Page <i class="fas fa-arrow-circle-up"></i>
+      </a>
+      <a href="#pageFour" class="btn btnLight">
+        Next Page <i class="fas fa-arrow-circle-down"></i>
+      </a>
+    </div>
+  </article>
+
+
+  <article id="pageFour" class="page">
+    <h1>End</h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae, delectus saepe? Quas, quia. Cupiditate sequi vel consequatur, sunt quam minus ut, modi soluta, esse autem eligendi architecto qui quaerat reiciendis.</p>
+    <div>
+      <a href="#pageThree" class="btn btnLight">
+        Prev Page <i class="fas fa-arrow-circle-down"></i>
+      </a>
+    </div>
+  </article>
+  
+  <!-- JavaScript -->
+  <script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+
+  <script>
+    // Smooth Scrolling
+    $('.btn').on('click', function(event) {
+        if (this.hash !== '') {
+          event.preventDefault();
+          const hash = this.hash;
+          $('html, body').animate(
+            {
+              scrollTop: $(hash).offset().top
+            },
+            800
+          );
+        }
+      });
+  </script>
+</body>
+
+</html>
