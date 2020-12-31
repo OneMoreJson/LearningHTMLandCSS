@@ -5,6 +5,10 @@ Completed the presentation website.  I tried everything myself and got a lot of 
   
   #### 1100 || Section 10
 Completed the Hamburger menu mini project.  This one will be work keeping for multiple of reasons.  Know this, <div> tags are incredible useful in getting CSS to do things that you normally cannot do.  Also, using a hidden checkbox input tag can allow you to cause “events” for transition and transforming things inside the CSS document.
+  
+  #### 1300 || Section 10
+Completed the Knowledge timeline.  I don’t think my computer can handle the information as everthing was kind of sticking.  That was really odd.  The movement of the boxes and transformation was jerky.  It also might be the chrome not really working well.  I’m going to try again using Safari and see if that works better.  I’m also moving on to Section 11, a study on grid.  This will be interesting.
+>Side Note: Safari works a lot better.  No jerky transitions!  
 
 -----------------------------------------------------------------------------
 
