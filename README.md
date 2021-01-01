@@ -1,5 +1,15 @@
 # Linkedin Learning : Web Dev Front In Lessons
 
+## Section 11
+
+### 2020 12 31 : 0900 || Section 11
+Went through SASS (SCSS) and this is a game changer on so many levels.  I am really looking forward to the next project.  After it’s all said and done, I need to complete some courses on ADOBE XD Web design, so I can start designing sites to build.  I’ll take a quick look to see if I can find someone to show me best practices.  
+
+#### 1500 || Section 12
+Starting the portfolio project…
+
+-----------------------------------------------------------------------------
+
 ### 2020 12 30 : 0500 || Section 10
 Completed the presentation website.  I tried everything myself and got a lot of it.  The animation isn’t my strongest part but I was able to C/P most of that.  I learned that if I want my buttons to be side-by-side, put them in a <div>.  That particular lesson cost me a ton of time.
   
