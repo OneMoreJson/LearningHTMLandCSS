@@ -1,5 +1,15 @@
 # Linkedin Learning : Web Dev Front In Lessons
 
+## Section 12
+
+### 2021 01 01 : 0600 || Section 12
+Happy New year!!  Completing section 12.  Next subject will be a deeper dive into SASS using the Sass Essential Training LI Lesson.   
+
+#### 0800 || Admin
+The desktop version wasn’t working.  I deleted it off my mac and download (again) the files and updated everthing to be accurate. 
+
+-----------------------------------------------------------------------------
+
 ## Section 11
 
 ### 2020 12 31 : 0900 || Section 11
