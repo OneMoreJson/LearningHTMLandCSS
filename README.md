@@ -1,5 +1,10 @@
 # Linkedin Learning : Web Dev Front In Lessons
 
+### 2021 01 04 : 0900 || Section 12
+Completed the Udemy class.  Towards the end, I was loosing my way.  I need to practice with my own stuff.  I could follow the guy but not while I did the actual page.  I think there could be a better process to step your way through the content instead of “tracing” what the guy is doing.  Still, It’s a great way to see what can be done and how things should probably worked on.  
+
+-----------------------------------------------------------------------------
+
 ## Section 12
 
 ### 2021 01 01 : 0600 || Section 12
@@ -7,6 +12,9 @@ Happy New year!!  Completing section 12.  Next subject will be a deeper dive int
 
 #### 0800 || Admin
 The desktop version wasn’t working.  I deleted it off my mac and download (again) the files and updated everthing to be accurate. 
+
+#### 0930 || Section 12
+Continuing Section 12.  I thought my computer was just not working.  Turns out, you need to ensure you’re not manipulating a class when it needs to be an id.  Also, every time you come back to a project (I.e. You close VSC), and you are using SASS… you need to remember to tell VSC in the terminal: “rpm run sass”  Otherwise, your stuff just doesn’t compile into a CSS doc.  Good to know. 
 
 -----------------------------------------------------------------------------
 
