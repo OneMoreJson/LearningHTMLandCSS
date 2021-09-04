@@ -1,0 +1,125 @@
+<!--  WEBD121 I001 Fall 2020
+      Jason Cameron -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- 4: Meta stuff here -->
+
+  <meta name="keywords" content="coffee, d&d, games, fantasy">
+  <meta name="description" content="A coffee shop for ALL your caffine and gaming needs">
+  <meta name="author" content="Jason'Smash'Cameron">
+
+  <!-- Link to CSS sheet -->
+  <link rel="stylesheet" type="text/css" href="CSS/CameronJasonStylesheet.css">
+
+  <title>Coffee & Games | Front Page</title>
+</head>
+<body>
+  <header>
+    <nav id="navBar">
+      <section class="container">
+        <!-- For Week 07 JS assignment -->
+        <a href="index.html"><h2 onmouseover="style.color='red'" onmouseout="style.color='#593A2E'" class="logo">Coffee & Games</h2></a>
+        <ul>
+          <li><a class="current" href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="table.html">Coffee Table</a></li>
+          <li><a href="form.html">Order Form</a></li>
+          <li><a href="media.html">Media</a></li>
+        </ul>
+      </section>
+    </nav>
+  </header>
+
+  <main>
+    <section id="shop">
+      <h3>The Shop</h3>
+      <!-- Photo by https://unsplash.com/@rodlong?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText Rod Long on https://unsplash.com/s/photos/coffee-shop?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText Unsplash -->
+      <a href="https://www.google.com/maps/place/Wizard+Island/@42.9364139,-122.1619953,13.02z/data=!4m5!3m4!1s0x54c63e6bf1f0108b:0xef47484abc934dd2!8m2!3d42.9394893!4d-122.1492294"><img src="IMG/CoffeeShop01_Mod2_1366x450.jpg" alt="Coffee Shop Image" width="1280"></a>
+      <section class="container">
+        <h4>Welcome to C&G!</h4>
+        <!-- For Week 07 JS assignment -->
+        <button type="button" 
+        onclick="document.getElementById('demo').innerHTML = Date()"> 
+          Click me to display Date and Time.
+        </button>
+
+        <p id="demo"></p>
+
+        <!-- For Week 07 JS assignment -->
+        <div id="brokeForWk7JS" onmouseover="mOver(this)" onmouseout="mOut(this)" style="background-color:#BF9169; width:1000px; height: 40px; padding: 80px;">Mouse Over Me</div>
+
+        <!-- One custom JS function -->
+        <script>
+          function mOver(obj) {
+            obj.innerHTML = "Merry Christmas"
+          }
+        // Two custom JS function
+          function mOut(obj) {
+            obj.innerHTML = "Mouse over me"
+          }
+        </script>
+
+        <p>
+          A place for all the <span class="boldtext">Coffee and Game Gear</span> you need for your most epic <span class="boldtext">D&D</span> quests.  We have fun with our game adventures and are always serious about our brews.  If you are looking for a black magic elixer to get you through a fifteen hour game session or just wanting some of our Middle Earth famous D20-elicious roasts, you will find it all here at <span class="boldtext">C&G Cafe</span>.  Just follow your nose, or the map provided <a href="https://www.google.com/maps/place/Wizard+Island/@42.9364139,-122.1619953,13.02z/data=!4m5!3m4!1s0x54c63e6bf1f0108b:0xef47484abc934dd2!8m2!3d42.9394893!4d-122.1492294">here</a>.  We’ll leave the lamp on for you.   
+        </p>
+      </section>    <!-- End of "container"-->
+    </section>      <!-- End of "shop"-->
+
+    <article id="coffee">
+      <h3>The Coffee</h3>
+      <!-- Photo by https://unsplash.com/@nate_dumlao?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText Nathan Dumlao on https://unsplash.com/s/photos/cafe?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText Unsplash -->
+      <img src="IMG/Coffee01_mod.jpg" alt="Image of three shots of coffee" width="422">
+      <!--hoto by https://unsplash.com/@asthetik?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText Mike Kenneally on https://unsplash.com/s/photos/coffee?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText Unsplash -->
+      <img src="IMG/Coffee02_mod.jpg" alt="Coffee beans image" width="422">
+      <!--Photo by https://unsplash.com/@nate_dumlao?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText Nathan Dumlao on https://unsplash.com/s/photos/coffee?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText Unsplash -->
+      <img src="IMG/Coffee03_mod.jpg" alt="Image of a cup of coffee" width="422">
+      <section class="container">
+      <h4>We Roast our Own Beans!</h4>
+        <p>
+          Our coffee comes from all over the world.  Depending on the season, we might get beans from Colombia, Kona, Mexico, Guatemala or any other wonderful fair-trade plantation.  This month, we have an <span class="italictext">Organic Honduran Marcala </span>that is incredible when lightly roasted.  The subtle chocolate flavor pairs wonderfully with our pumkin spice cheesecake.  If you are wanting something to put a bit more hair on your paladin’s chest, we recommend the <span class="italictext">Jamaican Blue Mountain</span>.  Roasted dark and served with rich cream, this earthy brew is seriously strong and bold. 
+        </p>
+      </section>
+    </article>
+
+    <article id="game">
+      <h3>The Game</h3>
+      <!-- Photo by https://unsplash.com/@clintbustrillos?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText Clint Bustrillos on https://unsplash.com/s/photos/dice?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText Unsplash -->
+      <img src="IMG/Game08_mod.jpg" alt="D and D image of a dragon and dice" width="422">
+      <!--Photo by https://unsplash.com/@armato?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText Alperen Yazgı on https://unsplash.com/s/photos/game?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText Unsplash  -->
+      <img src="IMG/Game04_mod.jpg" alt="Image of a bag of dice" width="422">
+      <!--Photo by href="https://unsplash.com/@clintbustrillos?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText Clint Bustrillos on https://unsplash.com/s/photos/dice?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText Unsplash -->
+      <img src="IMG/Game09_mod.jpg" alt="D and D image of an ogre and warriors" width="422">
+      <section class="container">
+        <h4>We Love Games!</h4>
+        <p>
+          Come by and feel free to play a game of cards, chess or any number of our stocked board games.  Just a warning though, we really love D&D.  You could say things get a little rowdy past 6 P.M.  We have a come-as-you-are nights every Monday, Tuesday and Wednesday.  However Thursday through Friday are D&D adventure leagues with dedicated Dungeon Masters (DMs).  You’ll want to sign up as the tables fill up quickly.
+        </p>
+      </section>
+    </article>
+
+    <article id="experience">
+      <h3>The Experience</h3>
+      <!-- Photo by https://unsplash.com/@brookecagle?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText Brooke Cagle on https://unsplash.com/s/photos/coffee-fun?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText Unsplash -->
+      <img src="IMG/CoffeeFun02_mod.jpg" alt="Woman have a good time"  width="422">
+      <!-- Photo by https://unsplash.com/@codestorm?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText Safar Safarov on https://unsplash.com/s/photos/drinking-coffee?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText Unsplash -->
+      <img src="IMG/CoffeeFun05_mod.jpg" alt="Woman have a good time"  width="422">
+      <!-- Photo by https://unsplash.com/@sizzzikova?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText Kseniia Ilinykh on  https://unsplash.com/s/photos/drinking-coffee?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText Unsplash -->
+      <img src="IMG/CoffeeFun04_mod.jpg" alt="Woman have a good time"  width="422">
+      <section class="container">
+        <h4>Letter from Michelle...</h4>
+        <p>
+          Hi, I use to be a closet D&D gamer.  My character is a level 14 half elf mage named Rocky.  I also really love coffee.  One day I was looking for a place to buy some freshly roasted coffee when I came across C&G online.  When I visited, the people here were supper kind.   The barista gave me a free drink when I bought a bag of their coffee of the month, <span class="italictext">Dark Rouges Caffeine.</span>  I also found a new figurine for my character.  I didn’t even know they sell all sorts of D&D gaming stuff.  This place is amazing!  I feel like I finally found a place I belong!
+        </p>
+      </section>
+    </article>
+  </main>
+
+  <footer id="mainFooter">
+    <h6>&copy; Jason Cameron 2020 : Done for AMU/APUS WEBD121 Fall 2020</h6>
+  </footer>
+</body>
+</html>

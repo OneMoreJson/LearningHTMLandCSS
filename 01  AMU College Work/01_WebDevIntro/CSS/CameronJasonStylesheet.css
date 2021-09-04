@@ -1,0 +1,257 @@
+/*  WEBD121 I001 Fall 2020
+    Jason Cameron */
+
+/* Utility Style */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  margin: auto;
+  max-width: 1100px;
+  overflow: auto;
+  padding: 0 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #593A2E;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+/* Main Style */
+body {
+  background-color: #D0D6D9;
+}
+
+h2 {
+  padding: 1.1rem;
+  font-size: 2.5rem;
+  color: #593A2E;
+}
+
+h3 {
+  font-size: 2rem;
+  text-align: center;
+  padding: 25px;
+  background: #593A2E;
+  color: #D0D6D9;
+}
+
+h4 {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 1.5rem;
+  color: #593A2E;
+}
+
+p {
+    font-family: sans-serif;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    font-size: 1.2rem;
+    text-align: justify;
+    line-height: 1.8rem;
+    color: #593A2E;
+}
+  
+.boldtext {
+    font-weight: bold;
+}
+  
+.italictext {
+    font-style: italic;
+}
+
+blockquote {
+  font-family: sans-serif;
+  padding-bottom: 40px;
+  font-size: 1.2rem;
+  text-align: center;
+  line-height: 1.8rem;
+  color: #593A2E;
+}
+
+button { 
+  font-family: sans-serif;
+  padding: 0.3rem;
+  font-size: 1rem;
+  text-align: center;
+  line-height: 1.8rem;
+  color: #593A2E;
+  margin-left: 400px;
+  margin-top: 15px;
+  border: #352018 solid 3px;
+  border-radius: 15px;
+}
+
+/* Header */
+header {
+  background: #a68d85;
+}
+
+.logo {
+  float: left;
+}
+
+#navBar ul {
+  list-style: none;
+  float: right;
+}
+
+#navBar ul li {
+  float: left;
+  padding: 1.1rem;
+}
+
+#navBar ul li a {
+  display: block;
+  padding: 15px;
+  text-align: center;
+}
+
+#navBar ul li a:hover,
+#navBar ul li a.current {
+  background:  #593A2E;
+  border-radius: .5rem;
+  color: #D0D6D9;
+}
+
+/* Footer Style  */
+#mainFooter {
+  background: #BF9169;
+  color: #fff;
+  text-align: center;
+  padding: 25px;
+}
+
+/* Table Style */
+#coffeeTable {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 85%;
+  background-color: RGBA(166, 141, 132, 0.3);
+}
+
+caption {
+  font-weight: bold;
+  font-size: 2rem;
+  padding: 1rem 0;
+  color: #593A2E;
+}
+
+th {
+  border-left: 1px solid #fff;
+  background-color: #3f2b21;
+  color: #fff;
+  padding: 0.5rem;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 1.3rem;
+}
+
+td:first-child {
+  text-align: left;
+  padding-left: 3rem;
+  vertical-align: middle;
+}
+
+td {
+  border-bottom: 1px solid #593A2E;
+  text-align: center;
+  vertical-align: middle;
+  padding: 0.5rem;
+}
+
+/* Form Styles */
+#orderForm {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 80%;
+}
+
+.ersBorder {
+  border: none;
+}
+
+fieldset {
+  border: 1px solid #fff;
+  border-radius: 7px;
+}
+
+legend {
+  font-family: sans-serif;
+  font-size: 1.2rem;
+  text-align: justify;
+  line-height: 1.8rem;
+  color: #593A2E;
+  margin-bottom: 5px;
+}
+
+input, select, textarea {
+  font-family: inherit;
+  font-size: 100%;
+}
+
+input {
+  margin: 10px;
+  padding: 5px;
+}
+
+textarea {
+  padding: 10px;
+  line-height: 1.5rem;
+}
+
+input[type=submit], input[type=reset] {
+  background-color: #593A2E;
+  border: none;
+  text-decoration: none;
+  color: white;
+  padding: 16px 32px;
+  border-radius: 7px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover, input[type=reset]:hover {
+  background-color: #352018;
+}
+
+/* Media Styles */
+audio {
+  margin-left: 400px;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+video {
+  margin-left: 150px;
+}
+
+/* JS */
+
+#demo {
+  text-align: center;
+}
+
+#brokeForWk7JS {
+  text-align: center;
+  margin-left: 30px;
+  font-family: sans-serif;
+  padding-bottom: 40px;
+  font-size: 4.2rem;
+  line-height: 1.8rem;
+  color: #fff;
+}
