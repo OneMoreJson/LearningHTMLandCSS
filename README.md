@@ -1,5 +1,11 @@
 # Linkedin Learning : Web Dev Front In Lessons
 
+## 2021 09 04 0500 || More Updates
+
+More folders moved around. Also, included my Web Dev Intro work (minus the JS) from college course work.  I will need to review the LI and Udemy courses and see if there are any projects worth posting in GH.  Most of the projects were “tracing” a project.  
+
+-----------------------------------------------------------------------------
+
 ## Admin 
 
 ### 2021 09 03 1600 || Updates
