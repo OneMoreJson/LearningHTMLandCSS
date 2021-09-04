@@ -1,5 +1,13 @@
 # Linkedin Learning : Web Dev Front In Lessons
 
+## Admin 
+
+### 2021 09 03 1600 || Updates
+
+Reworking the folder system on my local drive.  This will reflect how I have done with the “Learning Java” repo.  Instead of keeping the repo specifically tied to a college, LinkedIn Learning or Udemy course, I will combine projects that I think show both my learning progress and potential portfolio projects.  Note, I think I will take “worthy” projects and post them on my own website… things tend to get lost in the GH tangle.  However, I want to show anyone that I am continuing to advance my skills.  GH seems like a great place to demonstrate a working sketchbook of the notes and projects I have done through the years.  
+
+-----------------------------------------------------------------------------
+
 ### 2021 01 04 : 0900 || Section 12
 Completed the Udemy class.  Towards the end, I was loosing my way.  I need to practice with my own stuff.  I could follow the guy but not while I did the actual page.  I think there could be a better process to step your way through the content instead of “tracing” what the guy is doing.  Still, It’s a great way to see what can be done and how things should probably worked on.  
 
