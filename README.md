@@ -6,11 +6,11 @@ Started this Udemy course on “The Complete 2021 Web Development Bootcamp” to
 
 #### 2100 || Delete Section 15
 
-GH gave me a warning about the files in Section 15 were either corrupted or something else very bad.  I deleted the section since I can't figure out the problem as of right now.  I wouldn't want someone to pull bad code (Not that anyone is really goiing to do that, LOL).  
+GH gave me a warning about the files in Section 15 were either corrupted or something else very bad.  I deleted the section since I can't figure out the problem as of right now.  I wouldn't want someone to pull bad code (Not that anyone is really going to do that, LOL).  
 
 -----------------------------------------------------------------------------
 
-## 2021 09 04 0500 || More Updates
+### 2021 09 04 0500 || More Updates
 
 More folders moved around. Also, included my Web Dev Intro work (minus the JS) from college course work.  I will need to review the LI and Udemy courses and see if there are any projects worth posting in GH.  Most of the projects were “tracing” a project.  
 
