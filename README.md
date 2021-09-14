@@ -4,6 +4,10 @@
 
 Started this Udemy course on “The Complete 2021 Web Development Bootcamp” to refresh some of the things I learned a few months ago.  I am currently in Section 02.  Yes, this is a little boring due to be pretty entry level stuff.  However, I feel like it is good to refresh my brain on some of this stuff.  Ninety-nine percent is just plain awful.  However, the one percent that does come across to emphasize something I might have forgotten is very impactful.  
 
+#### 2100 || Delete Section 15
+
+GH gave me a warning about the files in Section 15 were either corrupted or something else very bad.  I deleted the section since I can't figure out the problem as of right now.  I wouldn't want someone to pull bad code (Not that anyone is really goiing to do that, LOL).  
+
 -----------------------------------------------------------------------------
 
 ## 2021 09 04 0500 || More Updates
