@@ -1,5 +1,11 @@
 # Linkedin Learning : Web Dev Front In Lessons
 
+### 2021 09 13 || UD02 
+
+Started this Udemy course on “The Complete 2021 Web Development Bootcamp” to refresh some of the things I learned a few months ago.  I am currently in Section 02.  Yes, this is a little boring due to be pretty entry level stuff.  However, I feel like it is good to refresh my brain on some of this stuff.  Ninety-nine percent is just plain awful.  However, the one percent that does come across to emphasize something I might have forgotten is very impactful.  
+
+-----------------------------------------------------------------------------
+
 ## 2021 09 04 0500 || More Updates
 
 More folders moved around. Also, included my Web Dev Intro work (minus the JS) from college course work.  I will need to review the LI and Udemy courses and see if there are any projects worth posting in GH.  Most of the projects were “tracing” a project.  
