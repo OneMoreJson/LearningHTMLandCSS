@@ -1,5 +1,11 @@
 # Linkedin Learning : Web Dev Front In Lessons
 
+### 2021 09 13 || UD04
+
+Reviewing CSS with the Udemy course.  Yes, this part is playing in the background while I am working on stuff that is a lot more advanced.  However, here are some things I am trying to figure out… I want to pull data from a text file without the need to change the actual index (or whatever HTML) page?  
+
+-----------------------------------------------------------------------------
+
 ### 2021 09 13 || UD02 
 
 Started this Udemy course on “The Complete 2021 Web Development Bootcamp” to refresh some of the things I learned a few months ago.  I am currently in Section 02.  Yes, this is a little boring due to be pretty entry level stuff.  However, I feel like it is good to refresh my brain on some of this stuff.  Ninety-nine percent is just plain awful.  However, the one percent that does come across to emphasize something I might have forgotten is very impactful.  
