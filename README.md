@@ -1,5 +1,11 @@
 # Linkedin Learning : Web Dev Front In Lessons
 
+### 2021 10 29 || Update
+
+I’m working on some refresher stuff for a programming bootcamp.  As such, I have some pre work that is due Nov 2.  The only thing that is in my way are these final projects due for school.  In other words, I’m rushing to complete everything before it is too late.  I’ll post my result on GH when I have submitted everthing to the camp.  
+
+-----------------------------------------------------------------------------
+
 ### 2021 09 13 || UD04
 
 Reviewing CSS with the Udemy course.  Yes, this part is playing in the background while I am working on stuff that is a lot more advanced.  However, here are some things I am trying to figure out… I want to pull data from a text file without the need to change the actual index (or whatever HTML) page?  
