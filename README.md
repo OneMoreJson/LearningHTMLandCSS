@@ -1,5 +1,11 @@
 # Linkedin Learning : Web Dev Front In Lessons
 
+### 2021 11 01 || Prep
+
+Continuing with the prep work required for the bootcamp.  Everything is due tomorrow, so I’m a little behind.  Still, I had to complete my school work that cause the delay.  None-the-less, my focus is to complete this work by the end of Nov 2.  Surprisingly, I forgot a ton on HTML and CSS.  I hope the JS is more familiar since my focus has been on the Java programming world.  We will see tomorrow.  I need to finish one more CSS assignment.  Then I’ll be doing some JS stuff for the prep work.  THEN, everything needs to be shared via dropbox.  I hate drop box too.  That’s a different story though.  
+
+-----------------------------------------------------------------------------
+
 ### 2021 10 29 || Update
 
 I’m working on some refresher stuff for a programming bootcamp.  As such, I have some pre work that is due Nov 2.  The only thing that is in my way are these final projects due for school.  In other words, I’m rushing to complete everything before it is too late.  I’ll post my result on GH when I have submitted everthing to the camp.  
