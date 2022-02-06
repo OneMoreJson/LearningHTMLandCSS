@@ -1,5 +1,11 @@
 # Linkedin Learning : Web Dev Front In Lessons
 
+## 2022 02 05 || Omnifood
+I am seeing a reason to write my entries in a text editor like scriviner.  It is easy to loose the things I write here in the readme file due to miss-matched Git progression.  As such, this entry is shorter now (after loosing what I previously wrote).  I am attaching the work I am learning from a Udemy course that I'm currently working through, dispite the work I'm doing in a coding bootcamp that is focusing on JS (at the moment).  The reason?  I need to keep (develop) the skills of multiple tools to be benificial to anyone seeking my work.  WR, JC
+
+
+-----------------------------------------------------------------------------
+
 ### 2021 11 02 || Finish Prep
 
 Spent the ENTIRE day going through the prep work for the coding bootcamp!  Holy smokes, it was a little tedious.  Fun… yes at times.  However, when you need to get cracking on two major school courses, you really want to rush through the “learning” at times.
